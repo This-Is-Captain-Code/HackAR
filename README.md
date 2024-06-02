@@ -1,1 +1,8 @@
 # HackAR
+HackAR is a groundbreaking project that merges cutting-edge technologies to create an unparalleled immersive experience. At its core, HackAR utilizes spatial computing, powered by Unity, to transport users into the Metaplex—a dynamic spatial metaverse crafted using Mona Wallet SDK, Meta XR SDK, and Quest 3. Here, users are treated to a diverse array of games including Crypto Saber, inspired by the popular Beat Saber, and NFT Ninja, reminiscent of Fruit Ninja, along with PvP fighting and socializing elements, all within a mixed reality setting.
+
+One of the project's standout features is its utilization of the Mona Wallet SDK, enabling users to seamlessly integrate their own 3D models into the experience, thus personalizing their journey through the Metaplex. To ensure a secure and streamlined user experience, Lit Protocol's Lit Actions are employed for authentication, enhancing the overall accessibility of the platform.
+
+In addition to gaming, HackAR extends its immersive capabilities to WeatherXM, leveraging Google's Geospatial Creator and photorealistic 3D tiles to provide users with a truly realistic and engaging weather experience. Through these technologies, users can explore and interact with weather patterns in unprecedented detail, further enriching their spatial computing experience.
+
+Overall, HackAR represents the forefront of spatial computing, pushing the boundaries of what's possible in virtual and mixed reality environments. With its seamless integration of various technologies and commitment to delivering immersive, personalized experiences, HackAR sets a new standard for interactive entertainment.
